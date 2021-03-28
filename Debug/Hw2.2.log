@@ -1,0 +1,10 @@
+﻿  GameFunctionHw2.2.cpp
+c:\users\naves\onedrive\מסמכים\visual studio 2015\projects\hw2.2\hw2.2\gamefunctionhw2.2.cpp(47): warning C4101: 'd': unreferenced local variable
+c:\users\naves\onedrive\מסמכים\visual studio 2015\projects\hw2.2\hw2.2\gamefunctionhw2.2.cpp(188): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\naves\onedrive\מסמכים\visual studio 2015\projects\hw2.2\hw2.2\gamefunctionhw2.2.cpp(205): warning C4553: '==': operator has no effect; did you intend '='?
+c:\users\naves\onedrive\מסמכים\visual studio 2015\projects\hw2.2\hw2.2\gamefunctionhw2.2.cpp(209): warning C4553: '==': operator has no effect; did you intend '='?
+c:\users\naves\onedrive\מסמכים\visual studio 2015\projects\hw2.2\hw2.2\gamefunctionhw2.2.cpp(458): warning C4129: ' ': unrecognized character escape sequence
+c:\users\naves\onedrive\מסמכים\visual studio 2015\projects\hw2.2\hw2.2\gamefunctionhw2.2.cpp(487): warning C4101: 'answer': unreferenced local variable
+c:\users\naves\onedrive\מסמכים\visual studio 2015\projects\hw2.2\hw2.2\gamefunctionhw2.2.cpp(184): warning C4715: 'Game::CheckPlace': not all control paths return a value
+  Hw2.2.vcxproj -> C:\Users\Naves\onedrive\מסמכים\visual studio 2015\Projects\Hw2.2\Debug\Hw2.2.exe
+  Hw2.2.vcxproj -> C:\Users\Naves\onedrive\מסמכים\visual studio 2015\Projects\Hw2.2\Debug\Hw2.2.pdb (Partial PDB)
